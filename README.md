@@ -1,3 +1,7 @@
+**IMPORTANTE: para poder visualizar los gráficos del _notebook_, se debe**
+**descargar [`analisis.html`](analisis.html) o utilizar el siguiente enlace**
+**de [nbviewer](https://nbviewer.org/github/claugaete/clusters-congreso/blob/main/analisis.ipynb).**
+
 En el *notebook* [`analisis.ipynb`](analisis.ipynb) se analizan las votaciones
 realizadas por la Cámara de Diputadas y Diputados de Chile en su LVI periodo
 legislativo (iniciado el 11 de marzo de 2022). La metodología fue inspirada en
