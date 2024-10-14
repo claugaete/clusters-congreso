@@ -38,3 +38,5 @@ principales fuerzas políticas visibles al interior del Congreso.
 ![Distribución de diputados según PCA](img/deputies_2d.png)
 
 ![Diputados según eje izquierda-derecha (componente 1 de PCA)](img/deputies_1d.png)
+
+![K-Means, 5 clusters](img/clusters.png)
