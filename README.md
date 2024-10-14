@@ -34,3 +34,7 @@ Finalmente, se realizó un *clustering* utilizando K-Means con $k=5$, obteniendo
 5 grupos de diputados que votan de manera similar. Cada grupo fue
 posteriormente analizado, concluyendo que los *clusters* calzan con las
 principales fuerzas políticas visibles al interior del Congreso.
+
+![Distribución de diputados según PCA](img/deputies_2d.png)
+
+![Diputados según eje izquierda-derecha (componente 1 de PCA)](img/deputies_1d.png)
